@@ -1,0 +1,17 @@
+body {
+	background: #68c471;
+}
+h1 {
+	text-align: center;
+	color: #2100f7;
+}
+h2 {
+	color: #f3f700;
+}
+
+.orange {
+	color: orange;
+}
+.green {
+	color: darkgreen;
+}
